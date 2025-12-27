@@ -132,4 +132,4 @@
       </a>
     </p>
         <h3 align="center">Stats</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=psychotester&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=psychotester&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" width="100%" height="300" alt="activity-graph graph"  />
