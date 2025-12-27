@@ -132,25 +132,4 @@
       </a>
     </p>
         <h3 align="center">Stats</h3>
-<div
-      style="
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-        align-items: center;
-      "
-    >
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=psychotester&show_icons=true&theme=nightowl&locale=en"
-        alt="psychotester"
-        width="400"
-      />
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=psychotester&theme=nightowl"
-        alt="psychotester"
-        width="400"
-      />
-    </div>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=psychotester&radius=8&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&disable_animations=true" height="300" alt="activity-graph graph"  />
