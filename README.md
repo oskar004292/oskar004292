@@ -1,5 +1,5 @@
   <h1 align="center">Hi there, I'm Oskar</h1>
-    <h3 align="center">A Front-end developer from Emirates</h3>
+    <h3 align="center">A Front-end developer</h3>
     <h3 align="center">Languages and Tools</h3>
     <p align="center">
       <a
@@ -132,37 +132,3 @@
       </a>
     </p>
         <h3 align="center">Stats</h3>
-    <div
-      style="
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-        align-items: center;
-      "
-    >
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dev-aly3n&show_icons=true&theme=nightowl&locale=en"
-        alt="dev-aly3n"
-        width="400"
-      />
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dev-aly3n&theme=nightowl"
-        alt="dev-aly3n"
-        width="400"
-      />
-      <img
-        align="center"
-          src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
-        alt="dev-aly3n"
-        width="400"
-      />
-      <img
-        align="center"
-          src="https://wakatime.com/share/@aly3n/28c1bd08-d655-4249-a17e-a985ff32f4d9.svg"
-        alt="dev-aly3n"
-        width="400"
-      />
-    </div>
