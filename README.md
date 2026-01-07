@@ -1,5 +1,5 @@
   <h1 align="center">Hi there, I'm Oskar</h1>
-    <h3 align="center">A Front-end developer</h3>
+    <h3 align="center">Frontend-Focused Full-Stack Web Developer</h3>
     <h3 align="center">Languages and Tools</h3>
     <p align="center">
       <a
