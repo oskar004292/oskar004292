@@ -1,6 +1,6 @@
 <h1>Hi, I’m Oskar</h1>
 <h3>Frontend-focused full-stack web developer</h3>
----
+
 <p>
 I focus on building practical, maintainable web systems with clear structure and predictable behavior.
 Most of my recent work involves frontend-heavy applications backed by APIs and integrations.
