@@ -1,28 +1,28 @@
 <h1 align="center">Hi, I’m Oskar</h1>
 <h3 align="center">Frontend-focused full-stack web developer</h3>
 
-<p align="center">
+<p align="left">
 I focus on building practical, maintainable web systems with clear structure and predictable behavior.
 Most of my recent work involves frontend-heavy applications backed by APIs and integrations.
 </p>
 
 <h3 align="center">How I work</h3>
-<p align="center">
+<p align="left">
 I prefer simple solutions, clear ownership, and steady progress.
 I’m comfortable stepping into existing codebases, improving structure, and shipping incrementally.
 </p>
 
 <h3 align="center">Primary stack</h3>
-<p align="center">
+<p align="left">
 TypeScript · JavaScript · React · Next.js · Tailwind CSS · APIs · Git
 </p>
 
-<p align="center">
+<p align="left">
 Additional tools as needed: GraphQL, Redux, Jest, Cypress, Webpack, Python
 </p>
 
 <h3 align="center">Notes</h3>
-<p align="center">
+<p align="left">
 Most long-term and client work lives in private repositories.
 Public repos reflect my structure, approach, and coding style.
 </p>
