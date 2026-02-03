@@ -1,5 +1,5 @@
-<h1>Hi, I’m Oskar</h1>
-<h3>Full-stack web developer</h3>
+<h1>Hi, everyone!</h1>
+<h3>I'm a Full-stack web developer</h3>
 
 <p>
 I focus on building practical, maintainable web systems with clear structure and predictable behavior.
