@@ -3,7 +3,7 @@
 
 <p>
 I focus on building practical, maintainable web systems with clear structure and predictable behavior.
-Most of my recent work involves frontend-heavy applications backed by APIs and integrations.
+Most of my recent work involves frontend-heavy applications backend by APIs and integrations.
 </p>
 
 <h3>How I work</h3>
